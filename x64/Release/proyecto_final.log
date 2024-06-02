@@ -1,0 +1,52 @@
+﻿  Cliente.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Persona.h(18,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Cliente.cpp")
+  
+  Compras.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Compras.h(138,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Compras.cpp")
+  
+  Compras_detalle.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Compras_detalle.h(137,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Compras_detalle.cpp")
+  
+  Empleados.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Empleados.h(171,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Empleados.cpp")
+  
+  Facturacion.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Facturacion.h(55,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Facturacion.cpp")
+  
+  Marcas.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Marcas.h(126,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Marcas.cpp")
+  
+  Persona.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Persona.h(18,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Persona.cpp")
+  
+  Productos.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Productos.h(160,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Productos.cpp")
+  
+  Proveedores.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Proveedores.h(139,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Proveedores.cpp")
+  
+  proyecto_final.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Persona.h(18,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "proyecto_final.cpp")
+  
+  Puestos.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Puestos.h(127,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Puestos.cpp")
+  
+  Ventas.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Ventas.h(148,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Ventas.cpp")
+  
+  Ventas_detalle.cpp
+C:\Users\lopez\OneDrive\Escritorio\Nelly\Tercer semestre\Programación 1\Final\proyecto_final\proyecto_final\Ventas_detalle.h(144,1): error C1071: no se esperaba el final de archivo encontrado en el comentario
+  (compilando archivo de origen "Ventas_detalle.cpp")
+  
